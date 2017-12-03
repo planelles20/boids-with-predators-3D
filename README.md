@@ -3,12 +3,13 @@ Boids is an artificial life program, developed by Craig Reynolds in 1986, which 
 
 ## Model (mathematical description)
 <p align="center">
-    <img src="https://github.com/model.gif?raw=true" alt="model"/>
+    <img src="https://github.com/planelles20/boids-with-predators-3D/blob/master/img/model.gif?raw=true" alt="model"/>
 </p>
 
 <p align="center">
-    <img src="https://github.com//rules.gif?raw=true" alt="rules"/>
+    <img src="https://github.com/planelles20/boids-with-predators-3D/blob/master/img/rules.gif?raw=true" alt="rules"/>
 </p>
+
 
 
 ## Results of simulation
