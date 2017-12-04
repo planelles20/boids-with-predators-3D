@@ -1,6 +1,6 @@
 
 //-----------------------------------------------------------------------
-// Main file of Vicsek model simulation using Smoothed-particle hydrodynamics (SPH)
+// Main file of bois model simulation using Smoothed-particle hydrodynamics (SPH)
 // method.
 //
 // Licensing: This code is distributed under the Apache License 2.0

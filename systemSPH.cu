@@ -1,5 +1,5 @@
 //-----------------------------------------------------------------------
-// Code file of SistemSPH class which simulate Vicsek model using
+// Code file of SistemSPH class which simulate boids model using
 // Smoothed-particle hydrodynamics (SPH) method.
 //
 // Licensing: This code is distributed under the Apache License 2.0
